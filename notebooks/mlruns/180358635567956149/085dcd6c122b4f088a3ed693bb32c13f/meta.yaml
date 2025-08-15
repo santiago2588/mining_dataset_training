@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/085dcd6c122b4f088a3ed693bb32c13f/artifacts
+end_time: 1755249381398
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: 085dcd6c122b4f088a3ed693bb32c13f
+run_name: XGBoost Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249374453
+status: 3
+tags: []
+user_id: mjkipsz2

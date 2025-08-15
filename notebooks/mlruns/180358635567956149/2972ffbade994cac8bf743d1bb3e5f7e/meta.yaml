@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/2972ffbade994cac8bf743d1bb3e5f7e/artifacts
+end_time: 1755249374443
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: 2972ffbade994cac8bf743d1bb3e5f7e
+run_name: LGBM Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249365815
+status: 3
+tags: []
+user_id: mjkipsz2

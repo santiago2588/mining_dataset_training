@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/6deff61e018d41ec981f984aeca6ad83/artifacts
+end_time: 1755249626321
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: 6deff61e018d41ec981f984aeca6ad83
+run_name: Lasso Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249620183
+status: 3
+tags: []
+user_id: mjkipsz2

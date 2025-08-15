@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-dd68a8576af447d4ba80c4e8d16de049/artifacts
+creation_timestamp: 1755180454190
+experiment_id: '180358635567956149'
+last_updated_timestamp: 1755180470438
+model_id: m-dd68a8576af447d4ba80c4e8d16de049
+model_type: null
+name: xg_boost_model
+source_run_id: ed9ba6c298af42d0a733bcee61c44a70
+status: 2
+status_message: null

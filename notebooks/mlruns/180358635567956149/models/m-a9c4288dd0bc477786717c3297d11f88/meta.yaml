@@ -1,0 +1,11 @@
+artifact_location: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-a9c4288dd0bc477786717c3297d11f88/artifacts
+creation_timestamp: 1755185494689
+experiment_id: '180358635567956149'
+last_updated_timestamp: 1755185494689
+lifecycle_stage: active
+model_id: m-a9c4288dd0bc477786717c3297d11f88
+model_type: null
+name: light_gbm_model
+source_run_id: 071d042aa98744809dbfbe159bffdcde
+status: 1
+status_message: null

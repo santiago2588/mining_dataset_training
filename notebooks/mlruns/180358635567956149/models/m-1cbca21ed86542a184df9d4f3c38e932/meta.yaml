@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-1cbca21ed86542a184df9d4f3c38e932/artifacts
+creation_timestamp: 1755249368395
+experiment_id: '180358635567956149'
+last_updated_timestamp: 1755249374413
+model_id: m-1cbca21ed86542a184df9d4f3c38e932
+model_type: null
+name: model
+source_run_id: 2972ffbade994cac8bf743d1bb3e5f7e
+status: 2
+status_message: null

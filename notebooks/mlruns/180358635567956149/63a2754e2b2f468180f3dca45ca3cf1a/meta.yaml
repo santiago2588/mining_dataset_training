@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/63a2754e2b2f468180f3dca45ca3cf1a/artifacts
+end_time: 1755249614149
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: 63a2754e2b2f468180f3dca45ca3cf1a
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249606112
+status: 3
+tags: []
+user_id: mjkipsz2

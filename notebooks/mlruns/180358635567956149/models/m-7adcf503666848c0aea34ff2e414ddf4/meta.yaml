@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-7adcf503666848c0aea34ff2e414ddf4/artifacts
+creation_timestamp: 1755178119451
+experiment_id: '180358635567956149'
+last_updated_timestamp: 1755178149127
+model_id: m-7adcf503666848c0aea34ff2e414ddf4
+model_type: null
+name: random_forest_model
+source_run_id: faef3ae62bd840deb142acf54416560b
+status: 2
+status_message: null

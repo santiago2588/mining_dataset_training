@@ -1,0 +1,50 @@
+artifact_path: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-647489f7396a41bda5b9b016bb80e31f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-647489f7396a41bda5b9b016bb80e31f
+model_size_bytes: 5615821
+model_uuid: m-647489f7396a41bda5b9b016bb80e31f
+prompts: null
+run_id: 90206c30f53c4b288eafbdedae81dac1
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "% Iron Feed", "required": true}, {"type":
+    "double", "name": "Starch Flow", "required": true}, {"type": "double", "name":
+    "Amina Flow", "required": true}, {"type": "double", "name": "Ore Pulp Flow", "required":
+    true}, {"type": "double", "name": "Ore Pulp pH", "required": true}, {"type": "double",
+    "name": "Ore Pulp Density", "required": true}, {"type": "double", "name": "Flotation
+    Column 01 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 02 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 04 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 05 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 06 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 07 Air Flow", "required": true}, {"type": "double", "name": "Flotation
+    Column 01 Level", "required": true}, {"type": "double", "name": "Flotation Column
+    02 Level", "required": true}, {"type": "double", "name": "Flotation Column 03
+    Level", "required": true}, {"type": "double", "name": "Flotation Column 04 Level",
+    "required": true}, {"type": "double", "name": "Flotation Column 05 Level", "required":
+    true}, {"type": "double", "name": "Flotation Column 06 Level", "required": true},
+    {"type": "double", "name": "Flotation Column 07 Level", "required": true}, {"type":
+    "double", "name": "% Iron Concentrate", "required": true}]'
+  outputs: '[{"type": "double", "name": "% Silica Concentrate", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-15 08:56:25.855178'

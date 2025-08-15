@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/43183f4f9f5a461d8ff64fb410a330e5/artifacts
+deleted_time: 1755248644383
+end_time: 1755185399614
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: deleted
+run_id: 43183f4f9f5a461d8ff64fb410a330e5
+run_name: lgbm_regression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755185399035
+status: 4
+tags: []
+user_id: mjkipsz2

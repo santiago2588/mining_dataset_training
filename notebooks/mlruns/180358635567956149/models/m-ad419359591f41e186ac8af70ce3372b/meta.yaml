@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-ad419359591f41e186ac8af70ce3372b/artifacts
+creation_timestamp: 1755179382490
+experiment_id: '180358635567956149'
+last_updated_timestamp: 1755179432661
+model_id: m-ad419359591f41e186ac8af70ce3372b
+model_type: null
+name: gradient_boosting_model
+source_run_id: 32ebd7fee7a7445c801acaed64d11264
+status: 2
+status_message: null

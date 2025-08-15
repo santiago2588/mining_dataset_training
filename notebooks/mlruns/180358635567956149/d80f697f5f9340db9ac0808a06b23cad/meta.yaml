@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/d80f697f5f9340db9ac0808a06b23cad/artifacts
+end_time: 1755249632220
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: d80f697f5f9340db9ac0808a06b23cad
+run_name: ElasticNet Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249626331
+status: 3
+tags: []
+user_id: mjkipsz2

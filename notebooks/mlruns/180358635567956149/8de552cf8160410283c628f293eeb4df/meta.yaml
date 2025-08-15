@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/8de552cf8160410283c628f293eeb4df/artifacts
+deleted_time: 1755249186139
+end_time: 1755249136149
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: deleted
+run_id: 8de552cf8160410283c628f293eeb4df
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755249126172
+status: 3
+tags: []
+user_id: mjkipsz2

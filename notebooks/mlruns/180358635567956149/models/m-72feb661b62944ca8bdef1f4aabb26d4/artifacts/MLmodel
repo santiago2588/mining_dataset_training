@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/models/m-72feb661b62944ca8bdef1f4aabb26d4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-72feb661b62944ca8bdef1f4aabb26d4
+model_size_bytes: 1319
+model_uuid: m-72feb661b62944ca8bdef1f4aabb26d4
+prompts: null
+run_id: 63a2754e2b2f468180f3dca45ca3cf1a
+utc_time_created: '2025-08-15 09:20:06.549972'

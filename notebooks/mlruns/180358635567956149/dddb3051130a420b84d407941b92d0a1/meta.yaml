@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/mjkipsz2/OneDrive - The University of Manchester/Desktop/mining_dataset_training/notebooks/mlruns/180358635567956149/dddb3051130a420b84d407941b92d0a1/artifacts
+end_time: 1755255386668
+entry_point_name: ''
+experiment_id: '180358635567956149'
+lifecycle_stage: active
+run_id: dddb3051130a420b84d407941b92d0a1
+run_name: optmized_lightgbm_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755255350875
+status: 3
+tags: []
+user_id: mjkipsz2
